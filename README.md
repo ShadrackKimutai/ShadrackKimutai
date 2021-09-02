@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadrackKimutai
 - 👀 I’m interested in ...wow. 
-- 🌱 I’m currently learning .blender and wordpress plugin development
+- 🌱 I’m currently learning .blender and flask
 - 💞️ I’m looking to collaborate on projects on AI, Java, Winforms (C# and Visual Basic) and arduino
 - 📫 How to reach me +254 724226334 or shadrackkimutai@gmail.com
 
